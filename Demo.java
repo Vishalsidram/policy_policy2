@@ -27,7 +27,7 @@ if(res1==num){
 System.out.println("It is a ArmStrong Number);
 }
 else{
-System.out.println("It is NOT a ArmStrong Number);
+System.out.println("It is NOT a ArmStrong");
 }
 }
 }
